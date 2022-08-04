@@ -1,0 +1,12 @@
+newmtl Material__2
+Kd 1 1 1
+d 1
+Ks 1 1 1
+map_Kd "Material__2_Base_Color.png"
+bump "Material__2_Height.png"
+Ke 0
+map_Pr "Material__2_Roughness.png"
+Pr 1
+map_Pm "Material__2_Metallic.png"
+Pm 1
+Ps 0
